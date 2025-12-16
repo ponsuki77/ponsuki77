@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ponsuki-r-2a1939331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ponsuki-r-2a1939331" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ponsuki77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ponsuki-r-2a1939331" height="30" width="40" /></a>
 <a href="https://fb.com/lovely.ponsuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lovely.ponsuki" height="30" width="40" /></a>
 <a href="https://instagram.com/lovely_ponsuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lovely_ponsuki" height="30" width="40" /></a>
 </p>
